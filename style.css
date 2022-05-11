@@ -37,7 +37,6 @@
 
 .lan-head {
   list-style: none;
-
 }
 
 .lan-head li {
@@ -78,4 +77,23 @@
 .skills {
   border-bottom: 1px solid #dfe1e6;
   padding-bottom: 10px;
+}
+
+.mb-3 {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.lst-btn {
+  margin-left: 45%;
+}
+
+.cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cont p {
+  width: 50%;
 }
