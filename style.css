@@ -10,3 +10,10 @@
   width: 50%;
   margin-bottom: 25px;
 }
+
+.social-medias ul {
+  list-style: none;
+  display: flex;
+  gap: 35px;
+  padding-left: 0;
+}
