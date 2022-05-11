@@ -1,3 +1,12 @@
 .navbar-nav {
   margin-left: 70%;
 }
+
+.heading {
+  margin-top: 10%;
+}
+
+.heading h1 {
+  width: 50%;
+  margin-bottom: 25px;
+}
