@@ -1,0 +1,92 @@
+.navbar-nav {
+  margin-left: 70%;
+}
+
+.heading {
+  margin-top: 10%;
+}
+
+.heading h1 {
+  width: 50%;
+  margin-bottom: 25px;
+}
+
+.social-medias ul {
+  list-style: none;
+  display: flex;
+  gap: 35px;
+  padding-left: 0;
+}
+
+.tech {
+  display: flex;
+  padding-left: 0;
+  gap: 35px;
+  border-color: white;
+}
+
+.card-img-top {
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 7%;
+}
+
+.about {
+  margin-top: 10%;
+}
+
+.lan-head {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+  margin-top: 20px;
+}
+
+.lan-head li {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.lan-head img {
+  width: 35%;
+}
+
+.partition1 h2 {
+  padding-top: 30px;
+}
+
+.partition1 p {
+  padding-top: 25px;
+}
+
+.social-medias {
+  padding-top: 40px;
+}
+
+.framework,
+.skills {
+  border-bottom: 1px solid #dfe1e6;
+  padding-bottom: 10px;
+}
+
+.mb-3 {
+  width: 50%;
+  margin-left: 25%;
+}
+
+.lst-btn {
+  margin-left: 45%;
+}
+
+.cont {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cont p {
+  width: 50%;
+}
