@@ -30,3 +30,52 @@
   margin-left: 15%;
   margin-top: 7%;
 }
+
+.about {
+  margin-top: 10%;
+}
+
+.lan-head {
+  list-style: none;
+
+}
+
+.lan-head li {
+  margin-top: 30px;
+}
+
+.languages ul {
+  list-style: none;
+  display: flex;
+  padding-left: 0;
+  margin-top: 20px;
+}
+
+.languages ul li {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: center;
+}
+
+.languages ul img {
+  width: 35%;
+}
+
+.partition1 h2 {
+  padding-top: 30px;
+}
+
+.partition1 p {
+  padding-top: 25px;
+}
+
+.social-medias {
+  padding-top: 40px;
+}
+
+.framework,
+.skills {
+  border-bottom: 1px solid #dfe1e6;
+  padding-bottom: 10px;
+}
