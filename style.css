@@ -17,3 +17,16 @@
   gap: 35px;
   padding-left: 0;
 }
+
+.tech {
+  display: flex;
+  padding-left: 0;
+  gap: 35px;
+  border-color: white;
+}
+
+.card-img-top {
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 7%;
+}
